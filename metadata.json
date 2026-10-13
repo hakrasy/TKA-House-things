@@ -1,0 +1,6 @@
+{
+  "name": "TKA Bahasa Inggris - House Things Kelas 7 SMP",
+  "description": "Aplikasi Ujian Berbasis TKA / Asesmen Kompetensi Literasi & Numerasi Bahasa Inggris Kelas 7 SMP topik House Things dengan visual living room & denah rumah, feedback interaktif, serta dashboard guru terproteksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
